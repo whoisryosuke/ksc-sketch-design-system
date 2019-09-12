@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F9369CDE-78D0-45D6-AE1A-86F005F79F65",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1063,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1E78CA7-6AF1-4680-A129-D202BB7627F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86ECB937-5209-4268-A166-1BD0AEC30E01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "240E69FF-7340-47DF-8E2E-9044855DB82B",
+    "height": 60,
+    "width": 101,
+    "x": 910,
+    "y": 2853
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "527280C0-3CD2-4FA3-B102-CC7357A6F613",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F7FAAB70-621D-45C7-A5D5-7B26EB4801BA"
+    }
+  ],
+  "name": "Table/Body/Cell (Fixed - Double)",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CDA85EF-C130-4756-9B08-66B92FB54781",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42728D4D-60B9-41D7-9CB1-F5E10EC1B153",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E5E12E2-EAB3-415F-A8DF-3969807865EC",
+    "guides": [
+    ]
+  }
+}

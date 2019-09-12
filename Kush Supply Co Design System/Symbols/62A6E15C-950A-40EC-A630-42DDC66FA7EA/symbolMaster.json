@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6874BCB4-D353-4A86-86F9-2E36995D0418",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 657,
+  "clippingMaskMode": 0,
+  "do_objectID": "62A6E15C-950A-40EC-A630-42DDC66FA7EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "91976467-87F2-4373-99FF-CE9AF479F58A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DD8C63F-A695-4391-B9BA-94B0563E06BC",
+    "height": 116,
+    "width": 196,
+    "x": 434,
+    "y": 2528
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E7A7DC3-EDBB-414A-95CD-AEF7E349982F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0D394072-816B-46B1-8CAC-947B2DC94504"
+    }
+  ],
+  "name": "Segment/Stacked (Tall)",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFC36C54-83F9-4E48-BD18-044E77448BD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEDD4807-FE34-41C1-A61B-E253ADC7DC95",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3E3202C9-74AD-45D0-8F22-146F3A61EA41",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1D3388B6-7434-4E7E-BA40-B4CBEE999277",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 286,
+  "clippingMaskMode": 0,
+  "do_objectID": "3ACEB6F0-9934-4C2E-9645-CE968B120A50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFBADCE3-6D43-4344-9C65-B16F84EF1B3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D66B278-A5E5-423E-A7EB-468B7EC95F0C",
+    "height": 110,
+    "width": 196,
+    "x": 1093,
+    "y": 2528
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4C49BC6E-314F-4603-9CF5-AAE5D7ECA589",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "02A15C31-DDEC-4A9C-95DD-E0A10BA5091F"
+    }
+  ],
+  "name": "Segment/Groups/Bottom",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC126A96-AFC1-4234-B73E-F951C45E0462",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "347F97AC-656E-4E1B-B088-75F413648097",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "161DA073-D7BC-4589-9624-C4326E217C1F",
+    "guides": [
+    ]
+  }
+}

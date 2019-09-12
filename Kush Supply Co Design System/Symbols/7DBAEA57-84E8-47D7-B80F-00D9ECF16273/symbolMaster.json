@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3BD3E983-437D-47F6-8730-C23B71FD2194",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 277,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DBAEA57-84E8-47D7-B80F-00D9ECF16273",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE2090D8-7FFD-417F-84E1-86F87AFA2954",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C906132-A05F-4715-A46F-608BF4C06B26",
+    "height": 796,
+    "width": 960,
+    "x": 3322,
+    "y": 2981
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5B2FADB5-4237-4628-B0BB-F9803EC06F21",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F4F09ED6-8895-4D26-AE8B-975B750D7070"
+    }
+  ],
+  "name": "UI/Image/Default Rounded Top",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "450038DD-EB6B-4871-9F7F-74B6207351F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E62DEC85-50A0-4E5F-812F-900F4F77ED9D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16324B6E-6079-45DE-BAD4-EF392B465F89",
+    "guides": [
+    ]
+  }
+}

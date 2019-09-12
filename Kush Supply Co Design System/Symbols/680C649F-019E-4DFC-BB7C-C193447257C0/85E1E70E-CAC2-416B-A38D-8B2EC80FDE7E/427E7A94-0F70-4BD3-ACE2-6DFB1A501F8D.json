@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "427E7A94-0F70-4BD3-ACE2-6DFB1A501F8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A7BD9DE-649B-446C-A3A6-3B9094E6EDB6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99122C5C-463D-41E0-B6B6-03F2BF69FFE4",
+    "height": 186,
+    "width": 292,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Container/Custom (Your Setup)",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C59FE0E7-E6B5-4C2A-B5C9-2C8DDC58561B",
+      "overrideName": "BC6A46BC-283E-4D92-A532-7CD2B4713517_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA36FADE-E32C-4645-8627-4EA7E5B5A5B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D9E9C41B-FA38-47E0-9776-2B97B248BF54",
+  "verticalSpacing": 0
+}

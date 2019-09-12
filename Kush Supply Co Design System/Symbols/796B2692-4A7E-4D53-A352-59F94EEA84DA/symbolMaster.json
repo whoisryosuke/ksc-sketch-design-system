@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "21930E84-298D-4374-ABCA-14EAF18532F6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 238,
+  "clippingMaskMode": 0,
+  "do_objectID": "796B2692-4A7E-4D53-A352-59F94EEA84DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAA3D47A-7C49-47ED-B79D-BE7E303523F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED92FAA1-88F2-4A44-88AB-3221F78BBA74",
+    "height": 149,
+    "width": 294,
+    "x": 1679,
+    "y": 3962
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E2BEC08-60D7-4E17-A371-F42A3EDB893E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9819187E-75F1-47C8-AEF9-61ABDEE96207"
+    }
+  ],
+  "name": "Card/Button",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63153EB7-BB65-4497-B531-79FA6E0A02FB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CFFF8B07-9357-4723-B220-A1589CB85503",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E8D2220D-D34E-4652-8930-64292BE638FF",
+    "guides": [
+    ]
+  }
+}

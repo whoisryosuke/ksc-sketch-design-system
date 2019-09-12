@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "35AE8A7C-35E9-441E-886B-B364F7D6BB03",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 345,
+  "clippingMaskMode": 0,
+  "do_objectID": "97D95DA8-A2E1-4EE3-AA02-60D0E3003CFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E67302C2-0EB6-4556-BDF8-3C1FDCAFB77D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "39555C1A-0F56-4FCE-B16F-C17026EBA2CE",
+    "height": 650,
+    "width": 650,
+    "x": 1,
+    "y": 2975
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9358189-AE95-4AA0-824C-2DEC0E1639F4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "2C16E4FB-FF7C-40BD-9476-4CE6E096F855"
+    }
+  ],
+  "name": "UI/Image/Avatar/Stevie",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC6E1A12-AB58-4867-A4E9-AEC7271A9002",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2EA1E83-1E8D-4BA0-8ABE-4AF644BFE8AD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "858ADA4B-1721-4AEE-A089-98CAB18DF267",
+    "guides": [
+    ]
+  }
+}

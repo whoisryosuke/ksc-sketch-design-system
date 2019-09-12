@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BDB09E01-FC3E-46F8-9CAE-4E211DE5F5E6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 385,
+  "clippingMaskMode": 0,
+  "do_objectID": "40FE0D65-F287-452B-9AB3-733BC298315F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A681DB4-12CD-413E-98B8-DEC57FA35BEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F97500E8-EA1F-4D4F-A244-932CCB1D0BDA",
+    "height": 172,
+    "width": 292,
+    "x": 777,
+    "y": 3962
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6101C6D2-F3FC-4CC7-BC56-4B09B3491CE8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "54322999-1FED-4D28-8B2A-9D86B0572DCB"
+    }
+  ],
+  "name": "Card/Group",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3064D8EF-5238-44CC-A7C7-E4634101DDFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71BFD8F8-2575-4049-B48B-210B35D68FB2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8269FAE4-3EAC-41A3-9EA8-FA336A1C755E",
+    "guides": [
+    ]
+  }
+}

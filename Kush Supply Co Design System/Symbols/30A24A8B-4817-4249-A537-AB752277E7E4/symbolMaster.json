@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "62A51C28-B48E-4517-AA35-8E0917930633",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 655,
+  "clippingMaskMode": 0,
+  "do_objectID": "30A24A8B-4817-4249-A537-AB752277E7E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CB77047-4B2E-4362-AED2-4D0CDFE86877",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ABB1C6C9-ECAB-42FB-A472-C149EEE1265E",
+    "height": 37,
+    "width": 101,
+    "x": 130,
+    "y": 2857
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D818589A-DC0B-4A9F-91A2-74399707597F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7288EAE1-9369-4C2F-BCD3-9637FC3C8072"
+    }
+  ],
+  "name": "Table/Header/Cell (Borderless)",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D6C7A65-07BC-4CB9-BCAF-2E3815ACA676",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46D3E22A-25FD-41A2-8828-06821C2349CD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5D08406D-7416-419D-A13A-8BFD530D3530",
+    "guides": [
+    ]
+  }
+}

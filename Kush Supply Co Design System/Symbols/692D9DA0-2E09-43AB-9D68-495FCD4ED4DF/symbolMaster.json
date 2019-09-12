@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "78589F8B-B8CF-4471-91CA-2BA82D041729",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 387,
+  "clippingMaskMode": 0,
+  "do_objectID": "692D9DA0-2E09-43AB-9D68-495FCD4ED4DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C92EA95C-821C-49E7-8646-7EE6914A9217",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E50B2C3-C11C-4731-BB6E-074D34839154",
+    "height": 389,
+    "width": 292,
+    "x": 397,
+    "y": 3962
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CABADB39-70C2-49D4-8FDE-4A9B349624BB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2341331C-951E-4580-B827-FD2BA98F4272"
+    }
+  ],
+  "name": "Card/Image Header",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C63BEC6F-39DD-4E90-8B23-87F9E255E871",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9D08499C-262D-40F2-8F7D-E97545E48892",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "11AB2A84-C831-46E6-AC24-DAE6DCFD663D",
+    "guides": [
+    ]
+  }
+}

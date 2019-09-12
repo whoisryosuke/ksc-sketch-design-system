@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 2287,
+    "height": 3991,
     "width": 209,
     "x": -238,
     "y": 0
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -168,6 +168,30 @@
     {
       "class": "text",
       "id": "059D7E4F-3313-42A0-9BC9-D8EB427FD8BC"
+    },
+    {
+      "class": "text",
+      "id": "7EFD15E3-64F6-4F01-B71E-8059934E8796"
+    },
+    {
+      "class": "text",
+      "id": "0DC33355-B86D-4990-B939-C1418AE6C97B"
+    },
+    {
+      "class": "text",
+      "id": "84FA05DB-658A-4178-BFAF-D60758D986DC"
+    },
+    {
+      "class": "text",
+      "id": "090A3311-4D42-48F4-BBD8-6C50F1F4BCA6"
+    },
+    {
+      "class": "text",
+      "id": "D6411951-F85B-4F2D-814D-613B110863EE"
+    },
+    {
+      "class": "text",
+      "id": "9AC2AE04-C649-4DE9-9639-9C2CC16FAFD2"
     }
   ],
   "name": "Titles",

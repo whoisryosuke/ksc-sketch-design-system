@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D2E63A9E-2E70-4CA1-91A5-7CDF4D26A448",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 291,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC3B9831-FC50-4BDC-889B-A1750785311D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "398DD39F-CB51-43E5-A504-3B33E9225B20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "405E570B-5343-422E-B6BC-53F715FE2887",
+    "height": 650,
+    "width": 650,
+    "x": 751,
+    "y": 2975
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "036F2753-F065-4C84-8A09-03CF5CCC49E1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "693FC4A4-ABF2-4A5F-822B-2FD13B8DAFC0"
+    }
+  ],
+  "name": "UI/Image/Avatar/Joe",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EFEF34E-1B82-4C1F-B313-234C9488BC42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "979C87DF-0177-491E-BED4-14EE9CEB33DC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3B447788-90A4-45D8-A2E1-1EB82A626D42",
+    "guides": [
+    ]
+  }
+}

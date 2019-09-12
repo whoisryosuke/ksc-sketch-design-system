@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C2B913A-BC80-4CF9-B00C-879D1E138591",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "255A1C7D-3607-41DF-BF70-0E9981CBF768",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2A2C7B7-684E-4122-AF61-881ED4C86EE1",
+    "height": 38,
+    "width": 294,
+    "x": 0,
+    "y": 111
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Default/Medium/Bottom with Text",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85A82D3C-16A2-49D9-B5E2-044A2697BB82",
+      "overrideName": "A2D8FA65-497E-42B3-9C74-89D56E0757ED_stringValue",
+      "value": "Add Friend"
+    }
+  ],
+  "resizingConstraint": 39,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34D5197B-8AFE-4A53-A4ED-02B7DC2D38B2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C4C7BEA5-FEA7-4761-8EE0-ADE0AE013B68",
+  "verticalSpacing": 0
+}

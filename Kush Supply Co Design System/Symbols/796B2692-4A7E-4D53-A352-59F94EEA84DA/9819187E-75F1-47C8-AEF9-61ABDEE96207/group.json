@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9819187E-75F1-47C8-AEF9-61ABDEE96207",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B6FB3B5-EE15-40D3-8C5E-5DB49B5CF5F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C3FDDE84-506A-41A0-8781-E88A97819DF7",
+    "height": 149,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "717EC0A6-1862-47EE-8A44-A7561D914206"
+    },
+    {
+      "class": "text",
+      "id": "5397042E-9273-4A7D-81FC-062F2192AA45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C2B913A-BC80-4CF9-B00C-879D1E138591"
+    },
+    {
+      "class": "text",
+      "id": "D22DD904-8C86-4AC2-A50D-CC0AE1D2B660"
+    }
+  ],
+  "name": "UI/Card/Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74BACA51-D68A-4291-BD54-AA36D3C0EFD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

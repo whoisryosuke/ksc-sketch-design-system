@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "67452F7D-8BE2-4CD4-B8FD-7B54CE50AEC5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 710,
+  "clippingMaskMode": 0,
+  "do_objectID": "24971847-3033-4DA2-814A-CCDED48C07AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C604C095-DC01-4C67-9F34-8FB8C04F236F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62C8B888-D10D-45A3-827F-75B495C62174",
+    "height": 86,
+    "width": 86,
+    "x": 2930,
+    "y": 1657
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ADBA4104-E8AE-4CEA-8CE7-CA14884C1D55",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FAF6892F-0C80-4FE1-9EBB-E55F0E062B3B"
+    }
+  ],
+  "name": "UI/Color/Flat/Light Grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B0F15AA-BF3A-46B7-BFB3-C389536CB8A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B130BEE7-9F6F-4D9B-905A-87CBA7C49F0C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0631A13E-8C43-4906-A947-3CF2239A3598",
+    "guides": [
+    ]
+  }
+}

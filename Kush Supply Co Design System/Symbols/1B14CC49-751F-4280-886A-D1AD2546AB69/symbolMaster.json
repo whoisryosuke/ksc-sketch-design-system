@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5B630989-28C5-4CC0-AFF2-37893A150D81",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 526,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B14CC49-751F-4280-886A-D1AD2546AB69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FEE4FC9-2FAD-4E2A-8767-3E7BAD0D97AE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "30655C4C-FEA0-431D-B210-A14818C68D6F",
+    "height": 37,
+    "width": 101,
+    "x": 0,
+    "y": 2859
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8714E7FB-4860-462E-BA10-C7FA35240AC7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EBD270D7-26EB-48AF-BD94-538194BAFB87"
+    }
+  ],
+  "name": "Table/Header/Cell",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5A79D91-011B-4952-BBA1-8339081C63EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0E0B43E-C02E-4EA8-9743-C5EC686F5C31",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3530FFA-F530-4C66-ADAE-0BD0C2965479",
+    "guides": [
+    ]
+  }
+}

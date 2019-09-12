@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "151BB1DF-304D-4414-82EE-C476E5D05F83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5A5E97A-DAED-48C2-B963-AAB9C3C59F4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E849758-37AB-4706-8494-63D4A1057193",
+    "height": 426,
+    "width": 292,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B75FCF9E-7FC5-4A56-A7DD-5B735E5E699E"
+    },
+    {
+      "class": "group",
+      "id": "5277AE87-64D8-48F8-A9CF-18E7A4D4DC4D"
+    },
+    {
+      "class": "group",
+      "id": "E73FD4FC-4688-4F68-922A-86E834DE43C2"
+    }
+  ],
+  "name": "UI/Card/Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A064672B-8FAF-4130-AD1A-0121815A9008",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

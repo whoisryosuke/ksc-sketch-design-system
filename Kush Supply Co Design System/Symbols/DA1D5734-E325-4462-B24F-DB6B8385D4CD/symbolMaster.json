@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F599D536-9845-44B6-9F83-F2518A93044E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 957,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA1D5734-E325-4462-B24F-DB6B8385D4CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96BBC619-0AC0-4B31-A171-A7F10FEB2E5E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C2406D57-BD0C-4322-B04A-F992EFFC9A8C",
+    "height": 116,
+    "width": 196,
+    "x": 661,
+    "y": 2528
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6209539F-D251-450D-9451-DAC76F9C2E39",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "12041E70-8A39-4EDB-A3ED-CE71B5EF9590"
+    }
+  ],
+  "name": "Segment/Vertical",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1367CB96-9EF9-40CF-996C-93B3FA2CC288",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "47A6D0EC-2E9E-4D29-9422-AAC18A07ED80",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "191D783B-16E3-4449-BECD-BB6CA66E1562",
+    "guides": [
+    ]
+  }
+}

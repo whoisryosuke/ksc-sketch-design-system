@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "54204D07-0325-438A-A078-A2F91093E386",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 289,
+  "clippingMaskMode": 0,
+  "do_objectID": "680C649F-019E-4DFC-BB7C-C193447257C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1C6DE03-C799-4DEC-8CAA-0A50A6C1806C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B88F00B4-FB64-4C01-9ADE-731826BB52CF",
+    "height": 186,
+    "width": 292,
+    "x": 2068,
+    "y": 3962
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D8DCB9B7-8FF4-4B61-B3F3-0E2092CBC9BA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "85E1E70E-CAC2-416B-A38D-8B2EC80FDE7E"
+    }
+  ],
+  "name": "Card/Metadata",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A684EFEA-7CC5-4178-B68D-8400E49BCFEC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71D79AE4-2B21-449F-AB76-DD3CF0C3E137",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77C37DAE-E1FD-4987-8FAE-2D59B975F8F7",
+    "guides": [
+    ]
+  }
+}
